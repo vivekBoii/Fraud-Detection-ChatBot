@@ -1,7 +1,9 @@
 # Fraud-Detection-ChatBot
 
 => More the Score Is close to 0 less are the chances of fraud 
+<br/>
 => More the Score Is close to 100 More are the chances of fraud 
+<br/>
 ![t1](https://github.com/vivekBoii/Fraud-Detection-ChatBot/assets/115945472/98b3eef5-2f73-4778-91e5-605de1bb5a72)
 ![t12](https://github.com/vivekBoii/Fraud-Detection-ChatBot/assets/115945472/87acc148-3b8b-4813-8f62-22c7bdac4e2d)
 ![t13](https://github.com/vivekBoii/Fraud-Detection-ChatBot/assets/115945472/ea603eda-ea47-4290-b98d-09fdc775e61a)
